@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #
-# FILENAME: CrowdStrike_Falcon_customerID_Info.sh
+# FILENAME: CrowdStrike_Falcon_Customer_ID_Info.sh
 # PURPOSE: Jamf Extension Attribute
 # DESCRIPTION: Report CrowdStrike Falcon Customer ID Info
 # WRITTEN BY: Caine Hörr
